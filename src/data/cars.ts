@@ -49,8 +49,8 @@ export default [
     type: 'UberX',
     picture: require('../assets/images/top-UberX.png'),
     coordinate: {
-      latitude: 28.4815637,
-      longitude: -16.2291304,
+      latitude: 28.486441028765274,
+      longitude: -16.23757840876611,
     },
   },
   {

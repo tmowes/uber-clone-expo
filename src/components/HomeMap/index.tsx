@@ -5,8 +5,8 @@ import * as S from './styles'
 
 const HomeMap: React.FC = () => {
   const coordinates = {
-    latitude: 28.3915637,
-    longitude: -16.6291304,
+    latitude: 28.450627,
+    longitude: -16.263045,
   }
   const initialRegion = {
     ...coordinates,

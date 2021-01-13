@@ -19,8 +19,8 @@ const AppRoutes: React.FC = () => (
         cardStyle: { backgroundColor: '#15161E' },
       }}
     >
-      <Screen name="Home" component={P.Home} />
       <Screen name="SearchResult" component={P.SearchResult} />
+      <Screen name="Home" component={P.Home} />
       <Screen name="DestinationSearch" component={P.DestinationSearch} />
     </Navigator>
   </>

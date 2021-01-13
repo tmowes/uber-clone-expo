@@ -6,7 +6,7 @@ import * as S from './styles'
 const SearchResult: React.FC = () => {
   return (
     <S.Container>
-      <C.HomeMap />
+      <C.RouteMap />
       <C.UberTypes />
     </S.Container>
   )
